@@ -1,16 +1,15 @@
 {
   "basics": {
     "name": "Mudassir Ali",
-    "label": "Javascript Frontend Engineer",
-    "picture": "",
-    "email": "mudassir.dev@gmail.com",
+    "label": "Senior Frontend Engineer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/07d/025/17d6807.jpg",
     "phone": "",
-    "website": "http://blog.mudassirali.com",
-    "summary": "I like getting involved in improving user experience & building better user interfaces on the web. I do frequently contribute to stackoverflow community & occasionally contribute to open source.",
+    "website": "http://www.mudassirali.com",
+    "summary": "Web developer with specialization in Frontend Technologies. Has good sense of UI and UX design. Loves coding in Javascript and Ruby.\nFamiliar with BackboneJS, EmberJS, AngularJS, Ruby on Rails, AWS Opsworks, Selenium (Python).",
     "location": {
-      "city": "Bangalore",
+      "city": "Hyderabad",
       "countryCode": "IN",
-      "region": "Karnataka"
+      "region": "Telangana"
     },
     "profiles": [
       {
@@ -24,23 +23,62 @@
         "url": ""
       },
       {
-          "network": "Skype",
-          "username": "mudassir0909"
-      },
-      {
           "network": "LinkedIn",
           "url": "https://www.linkedin.com/in/mudassir0909"
+      },
+      {
+        "network": "StackOverflow",
+        "url": "http://stackoverflow.com/users/1482899/mudassir-ali"
+      },
+      {
+        "network": "Codepen",
+        "username": "mudassir0909"
+      },
+      {
+        "network": "dribbble",
+        "username": "mudassir0909"
+      },
+      {
+        "network": "facebook",
+        "username": "mudassirali.0909"
+      },
+      {
+        "network": "bitbucket",
+        "username": "mmuddasir"
+      },
+      {
+        "network": "angellist",
+        "username": "mudassir-ali"
       }
     ]
   },
   "work": [
     {
-      "company": "Aplopio - Recruiterbox",
-      "position": "Javascript Frontend Engineer",
-      "website": "http://aplopio.com",
+      "company": "DiligenceVault",
+      "position": "Senior Frontend Engineer",
+      "website": "http://diligencevault.com/",
+      "startDate": "2015-04-08",
+      "summary": "Primarily responsible for architecting and building the frontend web application written in AngularJS.",
+      "highlights": [
+        "Building the frontend application using AngularJS",
+        "Setup the build process to optimize scripts & css files using Grunt",
+        "Setup karma to have a unit test suite to have maximum code coverage",
+        "Regularly gets involved in UX design",
+        "Designed and implemented the landing page of the website"
+      ]
+    },
+    {
+      "company": "Recruiterbox",
+      "position": "Senior Frontend Engineer",
+      "website": "http://recruiterbox.com",
       "startDate": "2014-03-17",
-      "summary": "Recruiterbox is the easiest way to receive and manage job applications to your company. It is more efficient than email and simpler than any other recruitment software.",
-      "highlights": ["Working primarily on BackboneJS, developing reusable user interface components and gets involved in UX design."]
+      "endDate": "2015-03-31",
+      "summary": "Delivered new features as a senior frontend engineer on their flagship product Recruiterbox, an ATS to manage job applications.",
+      "highlights": [
+        "Working primarily on BackboneJS, developed reusable user interface components.",
+        "Gets involved in UI & UX design.",
+        "Wrote [shell scripts & grunt tasks](https://github.com/Aplopio/email-friendly-templates) to automate certain build processes.",
+        "Refactored code and wrote selenium test cases in python."]
     },
     {
       "company": "Navyug Info Solutions",
@@ -48,17 +86,39 @@
       "website": "http://navyuginfo.com",
       "endDate": "2014-03-14",
       "startDate": "2012-06-04",
-      "summary": "Navyug Info Solutions helps you convert your business idea into reality.",
-      "highlights": ["Worked as a full stack Web Developer primarily across the technologies EmberJS, Ruby Rack Server, Ruby Datamapper, Grape API."]
+      "summary": "Worked as a full stack web developer for the client PrimeRevenue on their products SCiCustomer & SCiMap.",
+      "highlights": [
+        "Translated business requirements provided by marketing into customer facing UI designs.",
+        "Implemented upgrades, patches, code releases & database changes.",
+        "Did oversee unit testing, code reviews, debugging and documentation efforts."
+      ]
     },
     {
-      "company": "Hewlett Packard Global Soft.",
-      "position": "Intern",
-      "website": "http://hp.com",
-      "startDate": "2011-07-07",
-      "endDate": "2011-12-14",
-      "summary": "",
-      "highlights": ["Developed & Designed a platform independent Desktop Application 'iQ4U'(I Query For You), using Java Swing and SQL, which aids Informatica developers in displaying the dependencies of objects such as Mappings, Sessions, Workflows etc."]
+      "company": "Foodraft.com",
+      "position": "Cofounder",
+      "website": "http://www.foodraft.com",
+      "startDate": "2014-08-08",
+      "summary": "Worked as a full stack web developer & [designer](https://dribbble.com/mudassir0909/projects/401107-Foodraft) during my free time on various technologies such as Ruby on Rails, AngularJS, LESS & AWS Opsworks.",
+      "highlights": [
+        "Implemented the JSON REST API using Ruby on Rails",
+        "Implemented user authentication using devise gem",
+        "Integrated Payment Gateway, transactional email & SMS using APIs",
+        "Involved in the responsive web design of the website right from picking the right color palette to designing the UI & UX to make the flow as intuitive as possible",
+        "Setup the development & production build process using Grunt",
+        "Deployed the web application on AWS Opsworks",
+        "Built an admin application to perform all the CRUD operations using Ruby on Rails & AngularJS",
+        "Built a vendor application that makes life easier for suppliers/vendors by letting them track & analyze the data using Ruby on Rails & AngularJS"
+      ]
+    },
+    {
+      "company": "Json Resume",
+      "position": "Core Contributor",
+      "website": "http://jsonresume.org",
+      "startDate": "2015-01-05",
+      "summary": "I'm one of the core contributors of Json Resume, an open source initiative to create a JSON-based standard for resumes.",
+      "highlights": [
+        "Developed a responsive theme [Elegant](https://github.com/mudassir0909/jsonresume-theme-elegant), which won the [competition held in November 2014](https://github.com/mudassir0909/jsonresume-theme-elegant/issues/22) for the best theme.",
+        "Wrote a node module [theme-utils](https://github.com/jsonresume/theme-utils) which provides a useful set of methods for jsonresume theme developers to build themes faster."]
     }
   ],
   "volunteer": [],
@@ -76,41 +136,58 @@
   "publications": [],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "Intermediate",
+      "name": "Frontend",
       "keywords": [
-        "HTML",
-        "CSS",
         "Javascript",
         "Coffeescript",
-        "Ruby",
-        "Python",
-        "Java",
-        "SQL",
-        "C"
+        "HTML5",
+        "CSS3",
+        "BackboneJS",
+        "EmberJS",
+        "AngularJS",
+        "JQuery",
+        "UnderscoreJS",
+        "Jade",
+        "HandlebarsJS",
+        "LESS"
       ]
     },
     {
-      "name": "Frameworks & Libraries",
-      "level": "Intermediate",
+      "name": "Backend",
       "keywords": [
-        "EmberJS",
+        "Ruby",
         "Ruby on Rails",
-        "BackboneJS",
-        "MarionetteJS",
-        "RaphaelJS",
-        "JQuery"
+        "Devise",
+        "Postgres",
+        "NodeJS (basics)",
+        "Python",
+        "npm",
+        "rubygems"
+      ]
+    },
+    {
+      "name": "Testing",
+      "keywords": [
+        "Jasmine",
+        "SinonJS",
+        "rspec",
+        "Selenium (Python)"
       ]
     },
     {
       "name": "Design",
-      "level": "Intermediate",
       "keywords": [
-        "Adobe Illustrator",
+        "Sketch App",
         "Adobe After Effects",
-        "User Interface Design",
-        "User Experience Design",
-        "Web Design"
+        "Adobe Illustrator"
+      ]
+    },
+    {
+      "name": "Deployment",
+      "keywords": [
+        "AWS",
+        "Heroku",
+        "Grunt"
       ]
     }
   ],
