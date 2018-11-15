@@ -1,22 +1,17 @@
 {
   "basics": {
     "name": "Mudassir Ali",
-    "label": "Senior Frontend Engineer",
-    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/7/005/07d/025/17d6807.jpg",
+    "label": "Frontend Engineer",
+    "picture": "https://en.gravatar.com/userimage/43915741/c8b27f3d9d1b9371afb9e59f78bde13d.jpg?size=200",
     "phone": "",
     "website": "http://www.mudassirali.com",
-    "summary": "Web developer with specialization in Frontend Technologies. Has good sense of UI and UX design. Loves coding in Javascript and Ruby.\nFamiliar with BackboneJS, EmberJS, AngularJS, Ruby on Rails, AWS Opsworks, Selenium (Python).",
+    "summary": "Web developer with specialization in Frontend Technologies. Has good sense of UI and UX design. Loves coding in Javascript.\nFamiliar with React, BackboneJS, EmberJS, AngularJS, Ruby on Rails, AWS Opsworks, Selenium (Python).",
     "location": {
-      "city": "Hyderabad",
-      "countryCode": "IN",
-      "region": "Telangana"
+      "city": "Sydney",
+      "countryCode": "AU",
+      "region": "New South Wales"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "guesswhat4951",
-        "url": ""
-      },
       {
         "network": "Github",
         "username": "mudassir0909",
@@ -27,6 +22,10 @@
           "url": "https://www.linkedin.com/in/mudassir0909"
       },
       {
+          "network": "Instagram",
+          "username": "pixelcop"
+      },
+      {
         "network": "StackOverflow",
         "url": "http://stackoverflow.com/users/1482899/mudassir-ali"
       },
@@ -35,16 +34,13 @@
         "username": "mudassir0909"
       },
       {
+        "network": "Twitter",
+        "username": "guesswhat4951",
+        "url": ""
+      },
+      {
         "network": "dribbble",
         "username": "mudassir0909"
-      },
-      {
-        "network": "facebook",
-        "username": "mudassirali.0909"
-      },
-      {
-        "network": "bitbucket",
-        "username": "mmuddasir"
       },
       {
         "network": "angellist",
@@ -54,10 +50,19 @@
   },
   "work": [
     {
+      "company": "Canva",
+      "position": "Frontend Engineer",
+      "website": "https://canva.com/",
+      "startDate": "2016-12-06",
+      "summary": "Doing the frontend thing",
+      "highlights": []
+    },
+    {
       "company": "DiligenceVault",
       "position": "Senior Frontend Engineer",
       "website": "http://diligencevault.com/",
       "startDate": "2015-04-08",
+      "endDate": "2016-11-26",
       "summary": "Primarily responsible for architecting and building the frontend web application written in AngularJS.",
       "highlights": [
         "Building the frontend application using AngularJS",
@@ -98,6 +103,7 @@
       "position": "Cofounder",
       "website": "http://www.foodraft.com",
       "startDate": "2014-08-08",
+      "endDate": "2016-08-08",
       "summary": "Worked as a full stack web developer & [designer](https://dribbble.com/mudassir0909/projects/401107-Foodraft) during my free time on various technologies such as Ruby on Rails, AngularJS, LESS & AWS Opsworks.",
       "highlights": [
         "Implemented the JSON REST API using Ruby on Rails",
@@ -139,15 +145,18 @@
       "name": "Frontend",
       "keywords": [
         "Javascript",
+        "TypeScript",
+        "ReactJS",
+        "mobx",
+        "AngularJS",
         "Coffeescript",
         "HTML5",
         "CSS3",
         "BackboneJS",
         "EmberJS",
-        "AngularJS",
         "JQuery",
         "UnderscoreJS",
-        "Jade",
+        "Pug",
         "HandlebarsJS",
         "LESS"
       ]
