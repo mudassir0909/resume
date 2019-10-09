@@ -1,0 +1,22 @@
+{
+  "name": "mudassir0909",
+  "version": "1.0.0",
+  "description": "This is the resume of Mudassir Ali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudassir0909/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Mudassir Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mudassir0909/resume/issues"
+  },
+  "homepage": "https://github.com/mudassir0909/resume#readme"
+}

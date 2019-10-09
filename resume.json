@@ -213,5 +213,6 @@
     }
   ],
   "interests": [],
-  "references": []
+  "references": [],
+  "meta": { "theme": "elegant" }
 }
