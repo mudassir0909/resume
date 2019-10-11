@@ -1,17 +1,21 @@
 {
   "basics": {
     "name": "Mudassir Ali",
-    "label": "Frontend Engineer",
+    "label": "Senior Frontend Engineer",
     "picture": "https://en.gravatar.com/userimage/43915741/c8b27f3d9d1b9371afb9e59f78bde13d.jpg?size=200",
     "phone": "",
-    "website": "http://www.mudassirali.com",
-    "summary": "Web developer with specialization in Frontend Technologies. Has good sense of UI and UX design. Loves coding in Javascript.\nFamiliar with React, BackboneJS, EmberJS, AngularJS, Ruby on Rails, AWS Opsworks, Selenium (Python).",
+    "website": "https://registry.jsonresume.org/mudassir0909",
+    "summary": "Web developer with specialisation in Frontend Technologies with good sense of UI and UX design.",
     "location": {
       "city": "Sydney",
       "countryCode": "AU",
       "region": "New South Wales"
     },
     "profiles": [
+      {
+          "network": "Instagram",
+          "username": "pixelcop"
+      },
       {
         "network": "Github",
         "username": "mudassir0909",
@@ -22,12 +26,12 @@
           "url": "https://www.linkedin.com/in/mudassir0909"
       },
       {
-          "network": "Instagram",
-          "username": "pixelcop"
-      },
-      {
         "network": "StackOverflow",
         "url": "http://stackoverflow.com/users/1482899/mudassir-ali"
+      },
+      {
+        "network": "angellist",
+        "username": "mudassir-ali"
       },
       {
         "network": "Codepen",
@@ -41,35 +45,50 @@
       {
         "network": "dribbble",
         "username": "mudassir0909"
-      },
-      {
-        "network": "angellist",
-        "username": "mudassir-ali"
       }
     ]
   },
   "work": [
     {
       "company": "Canva",
-      "position": "Frontend Engineer",
+      "position": "Senior Frontend Engineer",
       "website": "https://canva.com/",
       "startDate": "2016-12-06",
-      "summary": "Doing the frontend thing",
-      "highlights": []
+      "summary": "",
+      "highlights": [
+        "Worked on the Print product and it's subsequent rewrite in the new tech stack which was written in React, TypeScript and Mobx",
+        "Worked in the editing team, specifically in the element recoloring. Involved in a architectural refactor that would work well with simultaneous collaboration, color search",
+        "I was also actively involved in code reviews, mentoring, strategy planning, hiring and giving technology talks in the internal forums",
+        "Contributed a lot of puns & emojis on the Slack"
+      ]
     },
     {
       "company": "DiligenceVault",
-      "position": "Senior Frontend Engineer",
+      "position": "Frontend Architect",
       "website": "http://diligencevault.com/",
       "startDate": "2015-04-08",
       "endDate": "2016-11-26",
-      "summary": "Primarily responsible for architecting and building the frontend web application written in AngularJS.",
+      "summary": "",
       "highlights": [
-        "Building the frontend application using AngularJS",
-        "Setup the build process to optimize scripts & css files using Grunt",
-        "Setup karma to have a unit test suite to have maximum code coverage",
-        "Regularly gets involved in UX design",
-        "Designed and implemented the landing page of the website"
+        "Setup the entire frontend application from scratch using AngularJS",
+        "Developed features as per the business requirements",
+        "Often wore the hat of a product designer and made UI/UX decisions",
+        "Designed & built the landing pages",
+        "Setup the blogging platform \"Diligently\" using Ghost"
+      ]
+    },
+    {
+      "company": "Foodraft.com",
+      "position": "Technical Cofounder",
+      "website": "http://www.foodraft.com",
+      "startDate": "2014-08-08",
+      "endDate": "2016-08-08",
+      "summary": "",
+      "highlights": [
+        "Worked on setting up the web Frontend stack, building the REST API, integrating payment gateway, transactional emails & SMS providers. Technologies used: Ruby on Rails, AngularJS",
+        "Wore the hat of a Product designer and designed the UI/UX to make the flow as intuitive as possible. Wireframed in Balsamiq mockups and designed in Sketch",
+        "Setup the deployment process for consumer, admin and vendor applications using AWS OpsWorks",
+        "Actively involved in product ideation & feature prioritisation"
       ]
     },
     {
@@ -78,12 +97,8 @@
       "website": "http://recruiterbox.com",
       "startDate": "2014-03-17",
       "endDate": "2015-03-31",
-      "summary": "Delivered new features as a senior frontend engineer on their flagship product Recruiterbox, an ATS to manage job applications.",
-      "highlights": [
-        "Working primarily on BackboneJS, developed reusable user interface components.",
-        "Gets involved in UI & UX design.",
-        "Wrote [shell scripts & grunt tasks](https://github.com/Aplopio/email-friendly-templates) to automate certain build processes.",
-        "Refactored code and wrote selenium test cases in python."]
+      "summary": "One of the two Frontend engineers. Worked primarily on BackboneJS, developed reusable user interface components, shipped features, involved in code reviews and UX design.",
+      "highlights": []
     },
     {
       "company": "Navyug Info Solutions",
@@ -91,29 +106,11 @@
       "website": "http://navyuginfo.com",
       "endDate": "2014-03-14",
       "startDate": "2012-06-04",
-      "summary": "Worked as a full stack web developer for the client PrimeRevenue on their products SCiCustomer & SCiMap.",
+      "summary": "Worked on shipping features for a Fintech company PrimeRevenue which was one of our clients based in Atlanta. Involved in shipping features for their products SCiMap & SCiCustomer.",
       "highlights": [
         "Translated business requirements provided by marketing into customer facing UI designs.",
         "Implemented upgrades, patches, code releases & database changes.",
         "Did oversee unit testing, code reviews, debugging and documentation efforts."
-      ]
-    },
-    {
-      "company": "Foodraft.com",
-      "position": "Cofounder",
-      "website": "http://www.foodraft.com",
-      "startDate": "2014-08-08",
-      "endDate": "2016-08-08",
-      "summary": "Worked as a full stack web developer & [designer](https://dribbble.com/mudassir0909/projects/401107-Foodraft) during my free time on various technologies such as Ruby on Rails, AngularJS, LESS & AWS Opsworks.",
-      "highlights": [
-        "Implemented the JSON REST API using Ruby on Rails",
-        "Implemented user authentication using devise gem",
-        "Integrated Payment Gateway, transactional email & SMS using APIs",
-        "Involved in the responsive web design of the website right from picking the right color palette to designing the UI & UX to make the flow as intuitive as possible",
-        "Setup the development & production build process using Grunt",
-        "Deployed the web application on AWS Opsworks",
-        "Built an admin application to perform all the CRUD operations using Ruby on Rails & AngularJS",
-        "Built a vendor application that makes life easier for suppliers/vendors by letting them track & analyze the data using Ruby on Rails & AngularJS"
       ]
     },
     {
@@ -212,7 +209,16 @@
       "language": "Hindi"
     }
   ],
-  "interests": [],
+  "interests": [{
+    "name": "Photography",
+    "keywords": [
+      "Aerial",
+      "Landscape",
+      "Portraits"
+    ]
+  }],
   "references": [],
-  "meta": { "theme": "elegant" }
+  "meta": {
+    "theme": "elegant"
+  }
 }
